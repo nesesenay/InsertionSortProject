@@ -22,7 +22,7 @@ O(n^2)
 
 4) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-Dizinin ortalarında yer aldığından **avarage case** kapsamına girer.
+* Dizinin ortalarında yer aldığından **avarage case** kapsamına girer.
 
 ## [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
