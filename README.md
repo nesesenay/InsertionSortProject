@@ -5,7 +5,7 @@
 
 1) Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-Dizi : **[22,27,16,2,18,6]**
+* Dizi : **[22,27,16,2,18,6]**
 * 1.Adım : [2,27,16,22,18,6]
 * 2.Adım : [2,6,16,22,18,27]
 * 3.Adım : [2,6,16,18,22,27]
